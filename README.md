@@ -1,9 +1,6 @@
-### Размер текста можно регулировать `#` ШАРПом , если поставить один , 
-то текст будет
-# Такой
-## если две, такой и
-### если три такой
-ну и можно писать вообще без ШАРПа.
+
+# Привет! :bowtie: 
+### Меня зовут Кирилл, я QA Engineer
 
 ![Profile_views](https://komarev.com/ghpvc/?username=belyakovko&color=green&style=for-the-badge)
 
@@ -27,5 +24,21 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)](https://www.postman.com)
+
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KirBelyakov)
+
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # Образование
+
+Postman  SOAP  Kafka  REST  Swagger  Docker 
+
+![Stat](https://github-readme-stats.vercel.app/api?username=belyakovko&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belyakovko&langs_count=8)
+![](https://github-profile-trophy.vercel.app/?username=belyakovko)
+
