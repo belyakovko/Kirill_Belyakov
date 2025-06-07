@@ -1,7 +1,11 @@
+<h1 align="center">Привет!</h1>
+<h3 align="center">Меня зовут Кирилл, я QA Engineer</h3>
+
+
 
 # Привет! :bowtie: 
 ### Меня зовут Кирилл, я QA Engineer
-
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 
 Меня захватывает процесс разработки и возможность создавать удобные и полезные продукты. Посмотрите мои работы в разделе Портфолио https://ia-stepanov.ru/
 
@@ -9,6 +13,23 @@
 ![Profile_views](https://komarev.com/ghpvc/?username=belyakovko&color=green&style=for-the-badge)
 
 ## Databases
+
+<table class="table-primer"border="0" width="100%">
+  <tr align="center">
+    <td><img height="48" width="48" src="https://cdn.simpleicons.org/metabase/509EE3" /></td>
+    <td><img height="64" width="64" src="https://cdn.simpleicons.org/mysql/4479A1" /></td>
+    <td><img height="64" width="64" src="https://cdn.simpleicons.org/postgresql/4169E1" /></td>
+  </tr>
+  <tr align="center">
+    <td>Metabase</td>
+    <td>MySQL</td>
+    <td>PostgreSQL</td>
+  </tr>
+</table>
+
+## IDEs/Editors
+
+<img height="48" width="48" src="https://cdn.simpleicons.org/postman/FF6C37" /> 
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -45,4 +66,3 @@ Postman  SOAP  Kafka  REST  Swagger  Docker
 ![Stat](https://github-readme-stats.vercel.app/api?username=belyakovko&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belyakovko&langs_count=8)
 ![](https://github-profile-trophy.vercel.app/?username=belyakovko)
-
